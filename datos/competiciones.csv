@@ -1,0 +1,11 @@
+_id,competicion,curvaCerrada,ganador.nombre,ganador.puntos,localizacion,nombreCircuito,premio,vueltas
+62252eade40e43b29d9ca2ef,GP ESPAÑA,true,Lewis Hamilton,8,Europa,Circuito de Barcelona,1500000,78
+62252eade40e43b29d9ca2f0,GP PORTUGAL,true,Fernando Alonso,10,Europa,Circuito de Lisboa,1550000,92
+62252eade40e43b29d9ca2f1,GP SIRC,false,Max Verstappen,9,Asia,Circuito de Japon,2000000,83
+62252eade40e43b29d9ca2f2,GP GC,false,Yuki Tsunoda,7,Asia,Circuito de Macau,1250000,90
+62252eade40e43b29d9ca2f3,GP de Francia,true,Sebastian Vettel,8,Europa,Circuito de Le Mans,1300000,75
+62252eade40e43b29d9ca2f4,GP de Mónaco,false,George Russell,6,Europa,Circuito de Mónaco,1800000,93
+62252eade40e43b29d9ca2f5,GP de Australia,true,Nikita Mazepin,7,Oceania,Circuito de Australia,1750000,69
+62252eade40e43b29d9ca2f6,GP EEUU,true,Daniel Ricciardo,9,America,Circuito de Austin,2800000,79
+62252eade40e43b29d9ca2f7,GP Italia,true,Carlos Sainz Jr.,8,Europa,Circuito de Imola,1400000,78
+62252eade40e43b29d9ca2f8,GP de Turquia,false,Kimi Räikkönen,6,Europa,Circuito de Turquia,3000000,97

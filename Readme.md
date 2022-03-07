@@ -28,7 +28,7 @@
 * $lt...
 
 > **Dando aportaciones personales al proyecto, tales como:**
-* $con con if, else y then
+* $cond con if, else y then
 * $setWindowFields
 * $derivative
 * $push
